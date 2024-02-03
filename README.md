@@ -1,2 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenta-05&theme=github" style="margin-right: 20px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenta-05&theme=github" />
+</div>
